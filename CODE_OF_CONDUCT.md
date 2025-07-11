@@ -29,7 +29,7 @@ The following behaviors will not be tolerated:
 If you witness or experience behavior that violates this Code of Conduct, please report it directly to:
 
 - 📧 [voidbot.open.source@gmail.com](mailto:voidbot.open.source@gmail.com)
-- 💬 [VoidBot Support Discord](https://discord.gg/dw82dD9Bq6)
+- 💬 [VoidBot Support Discord](https://discord.gg/vKV3bXHd5Y)
 
 All reports will be handled confidentially and respectfully.
 
