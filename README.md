@@ -11,3 +11,5 @@
 ***
 
 [![Discord](https://discordapp.com/api/guilds/1391335503722446868/widget.png?style=shield)](https://discord.gg/vKV3bXHd5Y)
+
+![Online](https://img.shields.io/badge/Bots 5%20Users-7289da?style=for-the-badge&logo=discord&logoColor=white)
