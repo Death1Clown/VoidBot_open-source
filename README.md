@@ -9,3 +9,5 @@
 #### Make sure to READ! the [LICENCE](https://github.com/Death1Clown/VoidBot_open-source/blob/main/LICENSE) before editing and posting your edited version of VoidBot code!
 
 ***
+
+[![Discord](https://discordapp.com/api/guilds/1391335503722446868/widget.png?style=shield)](https://discord.gg/vKV3bXHd5Y)
