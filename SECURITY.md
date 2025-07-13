@@ -32,4 +32,4 @@
 - #### Keep dependencies updated and audited
 
 # 📜 Licensing Reminder
-### VoidBot is licensed under the `VoidBot Open-Source License v1.0`. By using or modifying this code, you agree to follow the license terms and the Terms and Conditions.
+### VoidBot is licensed under the [`VoidBot Open-Source License v1.0`](https://github.com/Death1Clown/VoidBot_open-source/blob/master/LICENSE.md) By using or modifying this code, you agree to follow the license terms and the Terms and Conditions.
