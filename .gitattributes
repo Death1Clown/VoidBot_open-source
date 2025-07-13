@@ -1,0 +1,36 @@
+# Normalize all text files to use LF line endings
+* text=auto eol=lf
+
+# Treat shell scripts and config files as LF-only
+*.sh text eol=lf
+*.env text eol=lf
+*.json text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+
+# Treat Windows batch files with CRLF
+*.bat text eol=crlf
+
+# Mark image and binary assets as binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+
+# Prevent Git from diffing or merging compiled files
+*.exe binary
+*.dll binary
+*.so binary
+*.zip binary
+
+# Optional: mark secrets or encrypted files for git-crypt
+secrets/* filter=git-crypt diff=git-crypt
+
+# Optional: exclude build artifacts from git archive
+build/* export-ignore
+dist/* export-ignore
+node_modules/* export-ignore
+
+# Optional: Git LFS for large assets (if enabled)
+# *.psd filter=lfs diff=lfs merge=lfs -text
