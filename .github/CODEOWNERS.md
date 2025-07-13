@@ -4,8 +4,6 @@
 * @Death1Clown
 
 # Sensitive files
-.env.example @Death1Clown
-
 SECURITY.md @Death1Clown
 
 LICENSE.md @Death1Clown
