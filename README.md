@@ -1,4 +1,4 @@
-![VoidBot Logo](images/logo.png)
+![VoidBot Logo](.github/assets/logo.png)
 
 ---
 
