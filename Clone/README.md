@@ -1,13 +1,13 @@
-    Clone.bat
+Clone.bat
 
+```bash
 git clone https://github.com/Death1Clown/VoidBot_open-source.git
 pause
+```
 
+Version & Installation.bat
 
-
-
-    Version & Installation.bat
-
+```bash
 @echo off
 echo Checking Git version...
 
@@ -22,3 +22,4 @@ IF %ERRORLEVEL% EQU 0 (
 )
 
 pause
+```
