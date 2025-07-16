@@ -1,3 +1,5 @@
+![SECURITY](https://github.com/Death1Clown/VoidBot_open-source/blob/master/img.sc/logo3.png)
+
 ---
 
 # 🔐 Security Policy for VoidBot Open-Source
