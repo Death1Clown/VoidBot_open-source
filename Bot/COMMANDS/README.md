@@ -1,0 +1,7 @@
+![]()
+
+# Command info
+
+```
+/ai [message]
+```
