@@ -10,7 +10,7 @@ If you discover a security vulnerability in VoidBot, we encourage you to report 
 
 ### How to report:
 - Open a GitHub issue with the `security` label (without sensitive details), or  
-- Contact us via the [VoidBot Support Discord Server](https://dsc.gg/voidbot-support)
+- Create a ticket via the [VoidBot Support Discord Server](https://dsc.gg/voidbot-support)
 
 ### Please include:
 - A clear description of the issue  
